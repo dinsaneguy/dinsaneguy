@@ -49,7 +49,3 @@ I'm always open to new opportunities, collaborations, and learning experiences. 
 
 Thank you for visiting my profile! I look forward to connecting with fellow developers and enthusiasts. 😊
 ```
-<!---
-dinsaneguy/dinsaneguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
