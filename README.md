@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm **Agyaatt** (my alias), a passionate student currently pursuing a **Bachelor of Information Management (BIM)**. I have a keen interest in frontend web development and am constantly looking to expand my knowledge and skills in this field.
+Hello! I'm Vinay Poudyal, a passionate student currently pursuing a **Bachelor of Information Management (BIM)**. I have a keen interest in frontend web development and am constantly looking to expand my knowledge and skills in this field.
 
 ## Skills & Abilities
 
