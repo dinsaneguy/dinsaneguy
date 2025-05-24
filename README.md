@@ -10,7 +10,6 @@ Hello! I'm Vinay Poudyal, a passionate student currently pursuing a **Bachelor o
 - **Frontend Web Development**: Although I'm just starting out, I have a foundational understanding of frontend technologies and am eager to learn more.
 - **Programming Languages**: 
   - Basic knowledge of **C** and **Java**.
-- **Typing Speed**: I can type at a speed of **45-55 WPM** with an accuracy of **89-97%** as tested by Ratatype.
 - **AI Tools Proficiency**: I have extensive experience using various AI tools to create a wide range of content including:
   - Logos 🎨
   - Images 📷
